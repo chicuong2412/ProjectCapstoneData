@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.0.3">
   <diagram name="Trang-1" id="nBDWWime4zPlIbbG0Dwo">
-    <mxGraphModel dx="2751" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2880" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,8 +31,14 @@
         <mxCell id="59Yu0oLn6KBXpKYHAN1h-10" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#ffff88;" vertex="1" parent="1">
           <mxGeometry x="210" y="650" width="550" height="127" as="geometry" />
         </mxCell>
-        <mxCell id="59Yu0oLn6KBXpKYHAN1h-11" value="CVs Document Service" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="59Yu0oLn6KBXpKYHAN1h-11" value="CVs Document Services" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="210" y="650" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="59Yu0oLn6KBXpKYHAN1h-12" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;CV Management&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#009900;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="240" y="688.5" width="170.01" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="59Yu0oLn6KBXpKYHAN1h-13" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;CV Query Service&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#009900;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="448.75" y="688.5" width="150" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
