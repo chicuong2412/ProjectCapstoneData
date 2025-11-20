@@ -34,7 +34,7 @@
         <mxCell id="UUQoO9sgzsBfk9DHQhMg-9" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Masked Language Model&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#009900;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="UUQoO9sgzsBfk9DHQhMg-1">
           <mxGeometry x="179.99999999999997" y="48.5" width="154.62" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="UUQoO9sgzsBfk9DHQhMg-10" value="" style="group;perimeterSpacing=0;fillColor=default;" vertex="1" connectable="0" parent="1">
+        <mxCell id="UUQoO9sgzsBfk9DHQhMg-10" value="" style="group;perimeterSpacing=0;fillColor=default;strokeColor=#CCFF99;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-270" y="1380" width="870" height="190" as="geometry" />
         </mxCell>
         <mxCell id="UUQoO9sgzsBfk9DHQhMg-11" value="Redis" style="shape=datastore;whiteSpace=wrap;html=1;rounded=0;strokeColor=#b85450;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#f8cecc;gradientColor=none;" vertex="1" parent="UUQoO9sgzsBfk9DHQhMg-10">
