@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.0.3">
   <diagram name="Trang-1" id="nBDWWime4zPlIbbG0Dwo">
-    <mxGraphModel dx="3549" dy="1036" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2560" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -95,16 +95,19 @@
           <mxGeometry x="-170" y="900" width="170.01" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UUQoO9sgzsBfk9DHQhMg-1" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="670" y="1070" width="234" height="127" as="geometry" />
+          <mxGeometry x="540" y="1060" width="346.53999999999996" height="127" as="geometry" />
         </mxCell>
         <mxCell id="UUQoO9sgzsBfk9DHQhMg-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#ffff88;" vertex="1" parent="UUQoO9sgzsBfk9DHQhMg-1">
-          <mxGeometry width="234" height="127" as="geometry" />
+          <mxGeometry x="6.54" width="340" height="127" as="geometry" />
         </mxCell>
         <mxCell id="UUQoO9sgzsBfk9DHQhMg-3" value="AI Management" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;fontColor=default;" vertex="1" parent="UUQoO9sgzsBfk9DHQhMg-1">
-          <mxGeometry y="10" width="153" height="30" as="geometry" />
+          <mxGeometry x="-30" y="10" width="222.3076923076923" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UUQoO9sgzsBfk9DHQhMg-4" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;AI Classification Service&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#009900;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="UUQoO9sgzsBfk9DHQhMg-1">
-          <mxGeometry x="45" y="48.5" width="153.009" height="50" as="geometry" />
+        <mxCell id="UUQoO9sgzsBfk9DHQhMg-4" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Classification Model&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#009900;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="UUQoO9sgzsBfk9DHQhMg-1">
+          <mxGeometry x="19.999999999999993" y="48.5" width="154.62" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UUQoO9sgzsBfk9DHQhMg-9" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Masked Language Model&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#009900;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="UUQoO9sgzsBfk9DHQhMg-1">
+          <mxGeometry x="179.99999999999997" y="48.5" width="154.62" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
