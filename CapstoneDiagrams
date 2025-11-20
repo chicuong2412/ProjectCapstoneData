@@ -58,19 +58,19 @@
         <mxCell id="59Yu0oLn6KBXpKYHAN1h-22" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Notification Queue&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#009900;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="590" y="930" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="mCS93OQnXAMYb2qVdDca-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#ffff88;" vertex="1" parent="1">
+        <mxCell id="mCS93OQnXAMYb2qVdDca-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#ffff88;" parent="1" vertex="1">
           <mxGeometry x="-360" y="650" width="390" height="127" as="geometry" />
         </mxCell>
-        <mxCell id="mCS93OQnXAMYb2qVdDca-2" value="User Management" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="mCS93OQnXAMYb2qVdDca-2" value="User Management" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="-350" y="658.5" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mCS93OQnXAMYb2qVdDca-3" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;User Service&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#009900;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="mCS93OQnXAMYb2qVdDca-3" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;User Service&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#009900;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="-350" y="700" width="170.01" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="mCS93OQnXAMYb2qVdDca-4" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;UserProfile Service&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#009900;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="mCS93OQnXAMYb2qVdDca-4" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;UserProfile Service&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#009900;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="-150" y="700" width="170.01" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="mCS93OQnXAMYb2qVdDca-5" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="mCS93OQnXAMYb2qVdDca-5" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="210" y="1060" width="234" height="127" as="geometry" />
         </mxCell>
         <mxCell id="59Yu0oLn6KBXpKYHAN1h-15" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#ffff88;" parent="mCS93OQnXAMYb2qVdDca-5" vertex="1">
@@ -82,17 +82,29 @@
         <mxCell id="59Yu0oLn6KBXpKYHAN1h-17" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;File Service&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#009900;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="mCS93OQnXAMYb2qVdDca-5" vertex="1">
           <mxGeometry x="45" y="48.5" width="153.009" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="mCS93OQnXAMYb2qVdDca-6" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#ffff88;" vertex="1" parent="1">
+        <mxCell id="mCS93OQnXAMYb2qVdDca-6" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#ffff88;" parent="1" vertex="1">
           <mxGeometry x="-380" y="853" width="390" height="127" as="geometry" />
         </mxCell>
-        <mxCell id="mCS93OQnXAMYb2qVdDca-7" value="Social Management" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="mCS93OQnXAMYb2qVdDca-7" value="Social Management" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="-370" y="860" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mCS93OQnXAMYb2qVdDca-8" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Post Service&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#009900;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="mCS93OQnXAMYb2qVdDca-8" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Post Service&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#009900;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="-370" y="900" width="170.01" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="mCS93OQnXAMYb2qVdDca-9" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;User Service&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#009900;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="mCS93OQnXAMYb2qVdDca-9" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;User Service&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#009900;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="-170" y="900" width="170.01" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UUQoO9sgzsBfk9DHQhMg-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="670" y="1070" width="234" height="127" as="geometry" />
+        </mxCell>
+        <mxCell id="UUQoO9sgzsBfk9DHQhMg-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#ffff88;" vertex="1" parent="UUQoO9sgzsBfk9DHQhMg-1">
+          <mxGeometry width="234" height="127" as="geometry" />
+        </mxCell>
+        <mxCell id="UUQoO9sgzsBfk9DHQhMg-3" value="AI Management" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;fontColor=default;" vertex="1" parent="UUQoO9sgzsBfk9DHQhMg-1">
+          <mxGeometry y="10" width="153" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UUQoO9sgzsBfk9DHQhMg-4" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;AI Classification Service&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#009900;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="UUQoO9sgzsBfk9DHQhMg-1">
+          <mxGeometry x="45" y="48.5" width="153.009" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
