@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.1">
   <diagram name="Trang-1" id="nBDWWime4zPlIbbG0Dwo">
-    <mxGraphModel dx="4424" dy="2253" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3776" dy="1892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="XO0LH3RlEQiWiEFvmZqP-95" connectable="0" parent="1" style="group;strokeColor=#009900;fillColor=default;strokeWidth=2;perimeterSpacing=0;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
-          <mxGeometry height="1470" width="3040" x="-1670" y="1910" as="geometry" />
+          <mxGeometry height="2500" width="3040" x="-1670" y="1910" as="geometry" />
         </mxCell>
         <mxCell id="59Yu0oLn6KBXpKYHAN1h-9" connectable="0" parent="1" style="group;strokeColor=#009900;fillColor=default;strokeWidth=2;perimeterSpacing=0;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;container=0;" value="" vertex="1">
           <mxGeometry height="2090" width="3040" x="-1610" y="-320" as="geometry" />
@@ -748,16 +748,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QVC1ZXZByn3tkRKj8wmd-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="User" vertex="1">
-          <mxGeometry height="60" width="30" x="-1440" y="3620" as="geometry" />
+          <mxGeometry height="60" width="30" x="-1500" y="3700" as="geometry" />
         </mxCell>
         <mxCell id="QVC1ZXZByn3tkRKj8wmd-2" connectable="0" parent="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" vertex="1">
-          <mxGeometry x="-1122.8571428571431" y="3516" as="geometry" />
+          <mxGeometry x="-1182.8571428571431" y="3596" as="geometry" />
         </mxCell>
         <mxCell id="QVC1ZXZByn3tkRKj8wmd-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" value="Login" vertex="1">
-          <mxGeometry height="70" width="140" x="-1310" y="3480" as="geometry" />
+          <mxGeometry height="70" width="140" x="-1370" y="3560" as="geometry" />
         </mxCell>
         <mxCell id="QVC1ZXZByn3tkRKj8wmd-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" value="Authenticate Credentials" vertex="1">
-          <mxGeometry height="70" width="140" x="-1070" y="3480" as="geometry" />
+          <mxGeometry height="70" width="140" x="-1130" y="3560" as="geometry" />
         </mxCell>
         <mxCell id="QVC1ZXZByn3tkRKj8wmd-6" edge="1" parent="1" source="QVC1ZXZByn3tkRKj8wmd-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;fontSize=16;" target="QVC1ZXZByn3tkRKj8wmd-11">
           <mxGeometry relative="1" as="geometry" />
@@ -776,31 +776,31 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QVC1ZXZByn3tkRKj8wmd-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" value="Manage Profile" vertex="1">
-          <mxGeometry height="70" width="140" x="-1320" y="3670" as="geometry" />
+          <mxGeometry height="70" width="140" x="-1380" y="3750" as="geometry" />
         </mxCell>
         <mxCell id="QVC1ZXZByn3tkRKj8wmd-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" value="Change Password" vertex="1">
-          <mxGeometry height="70" width="140" x="-1080" y="3600" as="geometry" />
+          <mxGeometry height="70" width="140" x="-1140" y="3680" as="geometry" />
         </mxCell>
         <mxCell id="QVC1ZXZByn3tkRKj8wmd-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" value="Update Avatar" vertex="1">
-          <mxGeometry height="70" width="140" x="-1080" y="3740" as="geometry" />
+          <mxGeometry height="70" width="140" x="-1140" y="3820" as="geometry" />
         </mxCell>
         <mxCell id="QVC1ZXZByn3tkRKj8wmd-15" connectable="0" parent="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" vertex="1">
-          <mxGeometry x="-1153.3811764705943" y="4106" as="geometry" />
+          <mxGeometry x="-1213.3811764705943" y="4186" as="geometry" />
         </mxCell>
         <mxCell id="QVC1ZXZByn3tkRKj8wmd-16" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" value="Upload CV" vertex="1">
-          <mxGeometry height="70" width="140" x="-1340.44" y="4070" as="geometry" />
+          <mxGeometry height="70" width="140" x="-1400.44" y="4150" as="geometry" />
         </mxCell>
         <mxCell id="QVC1ZXZByn3tkRKj8wmd-17" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" value="Analyze with AI" vertex="1">
-          <mxGeometry height="70" width="140" x="-1100.44" y="4070" as="geometry" />
+          <mxGeometry height="70" width="140" x="-1160.44" y="4150" as="geometry" />
         </mxCell>
         <mxCell id="QVC1ZXZByn3tkRKj8wmd-18" connectable="0" parent="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" vertex="1">
-          <mxGeometry x="-1150.4411764705942" y="3895" as="geometry" />
+          <mxGeometry x="-1210.4411764705942" y="3975" as="geometry" />
         </mxCell>
         <mxCell id="QVC1ZXZByn3tkRKj8wmd-19" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" value="View Notifications" vertex="1">
-          <mxGeometry height="70" width="140" x="-1337.5" y="3860" as="geometry" />
+          <mxGeometry height="70" width="140" x="-1397.5" y="3940" as="geometry" />
         </mxCell>
         <mxCell id="QVC1ZXZByn3tkRKj8wmd-20" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" value="Mark as Read" vertex="1">
-          <mxGeometry height="70" width="140" x="-1097.5" y="3860" as="geometry" />
+          <mxGeometry height="70" width="140" x="-1157.5" y="3940" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
